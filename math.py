@@ -16,3 +16,6 @@ def divide(x,y):
         return DIVIDED_BY_0_ERROR
     else:
         return x/y
+
+def square:
+    pass                    # on Bug111 branch
